@@ -16,10 +16,9 @@ var pool = mysql.createPool({
 });
 var token = '5729674949:AAGTuC5kABOHS4w5uh4toOmQAeyy5LqHlYQ'; //机器人的token
 var chatid = -1001836705519; //发送群或用户的id
-var periodTime = 10; //每一期开奖的间隔，默认10秒
 var inline_keyboard = [ //内联键盘
     [{ text: '点数统计', callback_data: '1' },{ text: '长龙统计', callback_data: '2' }], 
-    [{ text: '项目介绍', callback_data: '3' ,url:"https://github.com/byprogram/telegram-kuaisan-bot-v1.0"}],
+    [{ text: '项目介绍', callback_data: '3' ,url:"https://github.com/byprogram/telegram-jianada28-bot-v1.0"}],
     [{ text: '联系作者', callback_data: '4' ,url:"https://t.me/byprogram"}]
 ]
 /*配置区结束*/
