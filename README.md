@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Author-byprogram-orange.svg)](https://github.com/byprogram)
 [![](https://img.shields.io/badge/version-1.0-brightgreen.svg)]([https://github.com/byprogram/telegram-jianada28-bot-v1.0])<br>
 <br>
-[English](https://github.com/byprogram/telegram-kuaisan-bot-v1.0/blob/main/README_en.md) | 简体中文<br>
+[English](https://github.com/byprogram/telegram-jianada28-bot-v1.0/blob/main/README_en.md) | 简体中文<br>
 ![gvwgr-kre33](https://user-images.githubusercontent.com/92509765/205933725-217c499c-779b-44e3-824d-e92fca217ab5.gif)
 ## 付费版本（仅售100USDT）
 - 支持后台管理系统，可以查看各类数据<br>
